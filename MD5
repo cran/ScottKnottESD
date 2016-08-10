@@ -1,0 +1,14 @@
+f325e0a209bc57ca1c24bbe82a26d7dc *DESCRIPTION
+2836553b341fe0cadb137c48e61a2fda *NAMESPACE
+2bb60bca798159bcd3578a69200f9016 *R/SK.ESD.R
+c649e5099cec07c949537527e6ffdc0f *R/example.R
+9242a4b48a1f3255fbfc096ab6ef6c40 *R/print.sk_esd.R
+886c0d9d215f2e12fc5fe49491767665 *R/sk_esd.R
+7e90d89012b66ae81d63b3fd1025d1c8 *README.md
+ddce269a1e3d054cae349621c198dd52 *data/datalist
+92b7ad6a39cd7bfd54b13c6e856b5774 *data/example.rda
+7ad68d34319c7884268b891fda02dfd6 *inst/COPYRIGHTS
+66b7454efcbac93797b7a75a49f69b10 *man/ScottKnottESD-package.Rd
+7a04d95a29b3be95b955333d30760941 *man/example.Rd
+3403256c467802278fb0763d894bf54e *man/print.Rd
+8c3132fe6a5dea4d8629d2bd99913d4f *man/sk_esd.Rd
