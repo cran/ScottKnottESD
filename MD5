@@ -1,4 +1,4 @@
-11e3f03ae851c0cd79a6a13c2e7c323d *DESCRIPTION
+0707b8e17352d75ea036f46f26517b3f *DESCRIPTION
 17c6fc21f675ad85fe6a16875f6c1c5c *NAMESPACE
 449f4bbe176ad389ea4d4f6200b3ca68 *R/SK.ESD.R
 acd20e16be8e84d28e6125a70f60dd76 *R/check.ANOVA.assumptions.R
@@ -8,18 +8,18 @@ ef614cdbba8cb4190b698bbb217dbb5e *R/checkDifference.R
 33e648a220f9fe2ecdcd80dde3d242c1 *R/m.inf.1a.R
 5722e4aabeae383db40742ad936171f7 *R/maven.R
 1e664133cf7e2d6e23da5a7ebc7d5fd7 *R/normalize.R
-d780d7633d456ce348b3014dbfccaafb *R/partition.R
+e2b04529af63b85171ad0c2fdec21fbf *R/partition.R
 291c30e234fd002f089cb881c4618629 *R/plot.sk_esd.R
 9242a4b48a1f3255fbfc096ab6ef6c40 *R/print.sk_esd.R
 3296eb7adeb152e26a64abccfc1c05f9 *R/scottknott.R
 e563747e54e5c6e8c97b86c4ad1fccf9 *R/sk_esd.R
 f85474e9ddf7348173fc9cceae71fc80 *R/summary.SK.R
-11a4ed8ef18e5581ef71e8ab153da141 *README.md
+681dfe26280e68d0a4926c6416de22dd *README.md
 a155fcf7b1a0c81be22614348077132b *data/datalist
 92b7ad6a39cd7bfd54b13c6e856b5774 *data/example.rda
 8d34b4954017d3dc077545e2f124b3bd *data/maven.rda
 7ad68d34319c7884268b891fda02dfd6 *inst/COPYRIGHTS
-7d60c0a8757dd4bdf704964805da45bc *man/ScottKnottESD-package.Rd
+8f274a3eb1df518259ccd71a8608b67b *man/ScottKnottESD-package.Rd
 8a098b70c4b323ce65ed334c311944ef *man/check.ANOVA.assumptions.Rd
 3159ed4cdc72da15eb6f8335e9d77a2c *man/example.Rd
 64f7aca450a5cae308189098430ae147 *man/long2wide.Rd
